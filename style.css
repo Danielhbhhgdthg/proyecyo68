@@ -16,3 +16,10 @@
     height: 300px;
     
 }
+#video{ width:80%; height:550px; border: none; margin-bottom: 100px; 
+margin-left: 10%;
+margin-right: 10%;
+}
+body{
+    background-color: aquamarine;
+}
